@@ -23,7 +23,3 @@ Social recipe-sharing platform with web scraping, user profiles, and friend list
 - **Portfolio:** [zachmoodie.com](https://zachmoodie.com)
 - **LinkedIn:** [linkedin.com/in/zachmoodie](https://linkedin.com/in/zachmoodie)
 - **Email:** dev@zachmoodie.com
-
----
-
-💼 Open to opportunities in web development, especially in the gaming industry.
