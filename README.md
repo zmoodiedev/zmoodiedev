@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Zach 👋
 
-<!--
-**zmoodiedev/zmoodiedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer with 9+ years of professional experience building customer-facing web applications. Currently working at Alberta Pensions Services Corporation, where I bridge design and development teams while working in Angular and ASP.NET codebases.
 
-Here are some ideas to get you started:
+Outside of work, I build modern web applications using **React**, **Next.js**, and **TypeScript** to stay current with the tech stack I'm most excited about.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3  
+**Backend:** Node.js, Supabase, Firebase, ASP.NET  
+**Tools:** Git/GitHub, Vercel, Figma, Adobe Creative Suite  
+
+## 🚀 Featured Projects
+
+### [Piggly](https://piggly.zachmoodie.com) - Personal Finance Tracker
+Full-stack budgeting app with debt tracking, data visualization, and household account sharing. Built with Next.js, TypeScript, and Supabase.
+
+### [Syft](https://syft.cooking) - Recipe Management Platform
+Social recipe-sharing platform with web scraping, user profiles, and friend lists. Built with React, TypeScript, and Firebase.
+
+## 📫 Let's Connect
+
+- **Portfolio:** [zachmoodie.com](https://zachmoodie.com)
+- **LinkedIn:** [linkedin.com/in/zachmoodie](https://linkedin.com/in/zachmoodie)
+- **Email:** dev@zachmoodie.com
+
+---
+
+💼 Open to opportunities in web development, especially in the gaming industry.
